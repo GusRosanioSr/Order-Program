@@ -13,3 +13,5 @@ The way this program function is as follows:
   
 The Final file is LinkedListDemo.cpp. This file puts to use most of the functionality of Order and Orders,
 but there is always room for improvement :).
+
+NOTE: Microsoft Visual Studio was used to create this prject. As a result there are many VS files. If you do not wish to use VS, jsut download the .h and .cpp files seperatly and use whatever IDE you wish.
