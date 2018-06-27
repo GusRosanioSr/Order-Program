@@ -1,0 +1,40 @@
+Order number: 1234
+Name on the order: Gus Rosnaio
+Date of the order: 2/17/2019
+Time of the order: 3pm
+Address the order will be delvered to: 701 West Red Bank Run
+Customer phone number: 856 425 8531
+Payment method: Credit Card
+Special requests for the order: none
+Customer tax exempt: 0
+Size of the order: 1
+Item 1: chicken parm
+Item 2: broccoli and olive oil
+Item 3: garlic bread
+ 
+Order number: 4321
+Name on the order: Tiff Gabel
+Date of the order: 8/20/2018
+Time of the order: 10am
+Address the order will be delvered to: 150 East Atlantic Avw
+Customer phone number: 856 434 0904
+Payment method: Cash
+Special requests for the order: all of them
+Customer tax exempt: 1
+Size of the order: 1
+Item 1: bacon
+Item 2: tacos
+ 
+Order number: 105
+Name on the order: gabe
+Date of the order: 12/27
+Time of the order: now
+Address the order will be delvered to: my house
+Customer phone number: 9
+Payment method: Cash
+Special requests for the order: none
+Customer tax exempt: 0
+Size of the order: 1
+Item 1: chicken pamr
+Item 2: eggplants
+ 
